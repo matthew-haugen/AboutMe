@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mhaugen94
+- 👀 I’m interested in learning languages, spending time with friends, and figuring out how to make the world a little better each day.
+- 🌱 I’m currently learning JavaScript, React.JS, and Next.JS.
+- 💞️ I’m looking to collaborate on projects related to the coding languages that I am currently learning.
+- 📫 How to reach me ...
