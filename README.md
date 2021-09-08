@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mhaugen94
-- 👀 I’m interested in learning languages, spending time with friends, and figuring out how to make the world a little better each day.
-- 🌱 I’m currently learning JavaScript, React.JS, and Next.JS.
-- 💞️ I’m looking to collaborate on projects related to the coding languages that I am currently learning.
-- 📫 How to reach me ...
+- 👋 Hello, I’m @mhaugen94
+- 👀 I’m interested in learning languages, modeling data, and analyzing data.
+- 🌱 I’m currently learning Java, Python, R, and Statistical modeling.
+- 💞️ I’m looking to collaborate on projects related to data science broadly speaking, with particular focus on AI.
+- 📫 You can reach me best on GitHub.
